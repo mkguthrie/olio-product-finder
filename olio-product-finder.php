@@ -12,7 +12,7 @@
 
 
 /**
-* This function is where we register our routes for our example endpoint.
+* Query the WordPress database
 */
 function handle_get_all( $data ) {
 	global $wpdb;
